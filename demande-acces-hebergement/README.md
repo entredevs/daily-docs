@@ -1,1 +1,1 @@
-demo : [entredevs.org/daily-docs/acces-hebergement.php](http://entredevs.org/daily-docs/acces-hebergement.php)
+demo : [entredevs.org/daily-docs/demande-acces-hebergement/](http://entredevs.org/daily-docs/demande-acces-hebergement/)
